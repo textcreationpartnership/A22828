@@ -1,0 +1,684 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Statutes and ordynances for the warre</title>
+            <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1544</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22828</idno>
+            <idno type="STC">STC 9334</idno>
+            <idno type="STC">ESTC S121367</idno>
+            <idno type="EEBO-CITATION">99856550</idno>
+            <idno type="PROQUEST">99856550</idno>
+            <idno type="VID">22120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22120)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 11:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Statutes and ordynances for the warre</title>
+                  <author>England and Wales. Sovereign (1509-1547 : Henry VIII)</author>
+                  <author>Henry VIII, King of England, 1491-1547.</author>
+                  <author>England and Wales. Army.</author>
+                  <author>England. Sovereign (1485-1509 : Henry VII).</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>[In Fletestrete by Thomas Barthelet printer to the kinges highnes],</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>Anno M.D.XLIIII. [1544]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A revision of Henry VII's ordinances of 1491.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Printer's name from colophon.</note>
+                  <note>Signatures: A⁴ B⁶.</note>
+                  <note>Imperfect; pages mutilated at head, with some loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military law --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:22120:1"/>
+            <pb facs="tcp:22120:1" rendition="simple:additions"/>
+            <p>Statutes and <hi>ordynances for the warre. <g ref="char:leaf">❧</g>
+               </hi>
+            </p>
+            <p>LONDINI.</p>
+            <p>Anno. M.D.XLIIII.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:22120:2"/>
+            <p>
+               <seg rend="decorInit">F</seg>
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion of <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſte neceſſarie <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as of peace, being the kinges <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> moſt dreade ſoueraine lorde <hi>HENRY</hi> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eight by the grace of god king of Englande, Fraunce, and Irelande, defender of the faithe, and of the chur<g ref="char:EOLhyphen"/>che of England and alſo of Irela<g ref="char:cmbAbbrStroke">̄</g>de in erthe the ſupreme heade, prouoked by the manyfolde iniuries commyt<g ref="char:EOLhyphen"/>ted by the frenche king, bothe in his confederation with the Turke, and by his priuate diſpleſures and wronges done to his highnes, againſt the co<g ref="char:cmbAbbrStroke">̄</g>mon weale of Chri<g ref="char:EOLhyphen"/>ſtendome, to inuade the realme of Fraunce this ſommer in his moſte royall perſone, his maieſtie myndinge due ordre to be obſerued and kepte emonges all ſortes of men of his highnes moſte royall and puiſſaunt army, as well capitaines, ſouldiours, as others, in ſuche wiſe as apperteyneth both towardes god and the worlde: hath deuiſed and commaunded to be ſette furthe certayne ordynaunces and ſtatutes for the warre, as hereafter enſueth, not doub<g ref="char:EOLhyphen"/>tynge but all his maieſties moſte louynge and obedient ſubie<g ref="char:EOLhyphen"/>ctes, for the diſcharge of theyr moſte bounden dueties towardes his highnes, woll im<g ref="char:EOLhyphen"/>brace and obey the ſame accordyngly.</p>
+         </div>
+      </front>
+      <body>
+         <div type="statutes">
+            <pb facs="tcp:22120:2"/>
+            <p>
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or condition <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> obeiſant vnto the ſaid Henry <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> generall, vpon peyne of drawing, han<g ref="char:EOLhyphen"/>ging and quarteryng, or other puniſhemen<g ref="char:EOLhyphen"/>tes, at the diſcretion of the lieutenant. And ouer that, euery man aforeſayd, the ſayd lieutenant onely except, be obeyſant vnto the marſhall of the armye, for the tyme being, vpon ſuche paynes as ſhall be lymytted by the lieutenant. And alſo that euery of them obey, and duly kepe all ſuche proclamations ordinaunces and ſtatutes, as now be and hereafter ſhalbe, on the behalf of our ſaid ſoueraine lorde made and proclaymed, vppon the peynes within the ſayd proclamations ordynances &amp; ſtatutes, or any of them comprehended.</p>
+            <p>¶<hi>ALSO</hi> that no man be ſo hardy,<note place="margin">For holy churche.</note> irreuerently to touche eyther the holy ſacramente of goddis bodye, or the boxe or the veſſell, whiche the ſame is in, vpon peyne to be drawen and hanged therfore. And alſo that no man be ſo hardy to burne or cut any images. Alſo that no maner man, without ſufficient auctoritie or commandement, take of any place, perſon, towne, or countrey, hauyng ſaufgarde of the ſayd lieutenant, any maner goodes or vitayles, withoute the a<g ref="char:EOLhyphen"/>grement and wyll of the wardeynes of the ſame places or perſons, vpon peyne to be impryſoned, and his lyfe at the ſayd lieutenantes wyll.</p>
+            <p>¶<hi>ALSO</hi> that no man preſume to go before the batayl,<note place="margin">For herbi<g ref="char:EOLhyphen"/>gage.</note> but that euery man kepe hym ſelfe in due order vnder the baner or penon of his lorde mayſter or capitayne, excepte herbi<g ref="char:EOLhyphen"/>gers, the names of whom ſhall be delyuered and taken to the marſhall by theyr ſayd lordes mayſters or capytaynes, vpon the peyne, that he that ſo offendeth, ſhalbe put from his horſe and harneys, bothe to be commytted vnto the warde of the marſhall, vnto the tyme the offendour hath made his fyne with the ſayd marſhall, and founde ſuertie,
+<pb facs="tcp:22120:3"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ger, take any <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the marſhall of the lodginges, or his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hauyng his auctoritie. And that noo ſou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lodgyng, without it be delyuered by his lordes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nes herbiger, vpon peyne of impriſonement, and to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fyne at the kynges pleaſure. And that after the tyme that the herbage or lodgyng is appoynted and delyuered, that no man be ſo hardy hym ſelfe to diſlodge, ne to diſaray for any thyng that may fall, without commaundement of hym that is auctoryſed thervnto, vpon peyne of horſe and har<g ref="char:EOLhyphen"/>neys to be put in arreſt of the marſhal, tyl the tyme he hath made fyne with hym, and theyr bodyes to be at the kynges pleaſure.</p>
+            <p>
+               <note place="margin">For m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſters.</note>¶ <hi>ALSO</hi> whan it ſhal pleaſe the kinges maieſty, his lieu<g ref="char:EOLhyphen"/>tenant or lieutenantes, to commaunde muſters to be taken of his hoſte, it is ordeyned, that noo capitayne preſume or attempt to haue or to ſhewe other men in his muſters, than thoſe that be with hym ſelfe retayned and attendant in and for the ſame voiage, without fraude gyle or diſſimulation, vpon payne to be holden falſe and reproued, and his body to be impriſoned and punyſhed at the kinges pleaſure. And if any perſon be twyſe or two tymes therof conuicted and founde faultie: than to dye for it. And that in lykewiſe no man come ne appere in or at any muſter vnder any capy<g ref="char:EOLhyphen"/>taine, except he be (as afore is ſayd) retayned with hym for that voyage, vpon peyne of impriſonement at the kinges wylle.</p>
+            <p>¶ <hi>ALSO</hi> the commiſſioners whan they ſhall take the mu<g ref="char:EOLhyphen"/>ſters, ſhall cauſe the capytaynes or pety capitaynes, with their retinues, to be ſworne, that they ſhall be good and true to the kyng our ſoueraigne lorde: And that they ſhall to theyr powers kepe his cries and ordinaunces, and ſerue hym truely againſt all his ennemies, no perſon reſerued.</p>
+            <p>Alſo they ſhall ſweare, whether that the horſe and harneys
+<pb facs="tcp:22120:3"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the companye: <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> diligently enquyre and ſee, that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynge vnto the muſters, haue all his har<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as apperteineth, for him, without any gyle, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſpeciall at the fyrſt muſter, that euery archer haue his bow and arrowes hole, that is to witte, in arrowes .xxx. or .xxviii. headed and hole in a ſhefe at the leſt. And for the more ſuretie in this caſe, the ſayd commiſſioners to cauſe e<g ref="char:EOLhyphen"/>uery ſouldiour to ſweare, that his harneys, bowe, and ar<g ref="char:EOLhyphen"/>rowes be his owne, or his mayſters or capitaines. And al<g ref="char:EOLhyphen"/>ſo that no man, that ones muſtred, and was admytted for an archer, alter or chaunge hym ſelfe into any other condi<g ref="char:EOLhyphen"/>tion, without the kynges ſpeciall licence, vpon peyn of im<g ref="char:EOLhyphen"/>priſonment at the kynges pleaſure.</p>
+            <p>¶ <hi>ALSO</hi> it is ordeined, that euery capitaine petycapitaine,<note place="margin">That the capitaynes make pay<g ref="char:EOLhyphen"/>ment to theyr ſoul<g ref="char:EOLhyphen"/>diours of theyr <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ges.</note> and all other hauing vnder them retynue of any ſouldiour or ſouldiours at the kynges wages, ſhall pay to their reti<g ref="char:EOLhyphen"/>nue of ſouldiour or ſouldiours the wages rateably as is allowed vnto them by the kyng our ſoueraigne lord, or the treaſourer of his warres, without diminiſſhyng or defal<g ref="char:EOLhyphen"/>kyng any parte therof, duryng the tyme that they ſhall re<g ref="char:EOLhyphen"/>ceyue wages for them: This paiment to be made vnto the ſaid retinues by their capytaines or petycapitaines of ſoul<g ref="char:EOLhyphen"/>diour or ſouldiours within .vi. daies next and immediately after that the ſaid capitaines petycaptaines or other, ſhall haue receyued their wages of the kyng or of the treaſourer of the warres, or of their lordes and maiſters, vpon the pe<g ref="char:EOLhyphen"/>naltie that he whiche offendeth therin, ſhall forfayte to the kyng all his goodes and cattalles, and his body to pryſon at the kynges pleſure: except he be reſonably letted in that behalfe, wherof he ſhall within the ſame .vi. dayes duely certifye the ſayd treaſourer of the warres. And alſo it ſhal be lefull for euery man, fyndyng hym greued in this be<g ref="char:EOLhyphen"/>halfe, to complaine him vnto the treaſourer of the warres,
+<pb facs="tcp:22120:4"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo departeth, to be arreſted <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the marſhall, and his life to be at the kinge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> alſo to loſe all his profit and gayne of that day<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to his lord or maiſter the thyrdes of his profyt. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lorde of the ſtale, the ſurplus of the ſame profittes of the ſame daye. Alſo that no lorde nor capitayne lycence any ſer<g ref="char:EOLhyphen"/>uant or ſouldiour of his to depart from the ſtale without knowlege and lycence of the chiefe captaines of the ſtale.</p>
+            <p>
+               <note place="margin">For them that make themſelues capitaines to withdrawe men from the hoſt.</note>¶Alſo that no man by reyſyng of banner or penon, of any armes image or other token, or by any other meane, aſſem<g ref="char:EOLhyphen"/>ble people to withdrawe them out of the hoſte, to go to any other place, without the kynges auctoritie, vppon peyne to be drawen hanged and quartred: And that no man fo<g ref="char:EOLhyphen"/>lowe ne enſue any ſuche perſon out of the hoſte, vpon peine to be hanged, and as well the reyſers of the ſayde baner or penon and aſſembelair of people, as the folowers, to be re<g ref="char:EOLhyphen"/>puted traitours, and to forfaite vnto the king al their lan<g ref="char:EOLhyphen"/>des goodes and cattals for euer.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 paragraph">
+                     <desc>〈1 paragraph〉</desc>
+                  </gap>
+               </note>¶Alſo that no man make any vnlaufull aſſembles of the kingis people, or make any bandes conſpiracies routes or couenticles, or reyſe or ingender murmeyours or grudgin<g ref="char:EOLhyphen"/>ges agaynſt the kinge, or any perſone of his hoſte, wherby myght enſue murder diuiſion diſſention ſedition ſtering or comocion of the people in the hoſte, two parties taking or bandes making, vpon lyke paynes.</p>
+            <p>
+               <note place="margin">For keping of watche and w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</note>¶ Alſo that euery man be obeyſaunte to his capitaine and pety capitayne, and truely kepe his watche and his warde ſtale and forrey, and to do al that belongeth to a ſoldiour to do, vpon payne that his horſe and harneys ſhalbe putte in the warde of the merſhal, vnto the tyme that he, that ſo of<g ref="char:EOLhyphen"/>fendeth, ſhal agree with his capitayne according to the or<g ref="char:EOLhyphen"/>dre of the courte.</p>
+            <p>
+               <note place="margin">That no</note>¶Alſo that euery capitayne kepe duely his watche warde
+<pb facs="tcp:22120:4"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to abide vpo<g ref="char:cmbAbbrStroke">̄</g> his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and tyme to hym limytted,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> come.</note> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any waye, onles it be by the aſſigneme<g ref="char:cmbAbbrStroke">̄</g>t <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hym, by whome the ſaide watche warde &amp; ſtale <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made &amp; appoynted, vpon payne that his bodie ſhal<g ref="char:EOLhyphen"/>be impriſoned, and his perſone and goodes to ſtande at the kinges pleaſure. Alſo that euery capitayne haue daye and night watche within his lodginge, vpon payne of loſinge iiii. dayes wages.</p>
+            <p>¶Alſo it is ordeyned, that for or vpon any tydinges ru<g ref="char:EOLhyphen"/>mours vppe rowes, or for any ſcrye that ſhall or may come riſe or growe in the hoſte, no man ſhall diſaraye or moue hym ſelfe out of ordre of the battell that he ſhalbe ſet in, or departe out of arraye, without leaue &amp; licence of his chefe<g ref="char:EOLhyphen"/>tayne, vpon payne that he ſo offending, ſhalbe putte from his horſe and harneys into the warde of the merſhal, there to remayne vntyl he ſhal haue made fine with the merſhal, and fynde ſuretie, that he ſhall not herafter offende in the like, whiche if he ſhal do, then his body to be at the kinges pleaſure.</p>
+            <p>¶<hi>ALSO</hi> that no perſon preſume or attempte to make or cauſe,<note place="margin">For vnlaw<g ref="char:EOLunhyphen"/>ful eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ries.</note> or procure to be made any outragious eſcry in the hoſte eyther by daye or by nyght, vpon peyne that he that ſhalbe founde the begynner therof, to loſe his goodes and lyfe, and the reſt to be impriſoned, and theyr bodyes to be punyſhed at the kynges pleaſure. And he that certifieth, who is the beginner, ſhall haue .xl.s. for his labour of the Marſhall.</p>
+            <p>¶<hi>ALSO</hi> that euery capitaine, kepyng the hoſte, that ſhall fortune to haue ſoldiours of his retinue, to be diſcharged, or to departe out of his company, or to be deade, be it na<g ref="char:EOLhyphen"/>turally, or by murdre or ſlaughter, within .x. dayes nexte and immediately enſuyng his ſayde dyſchargyng, depar<g ref="char:EOLhyphen"/>tyng, or death, ſhall certifie by byll his name, with the day
+<pb facs="tcp:22120:5"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> garriſon <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> commaundement,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 paragraph">
+                     <desc>〈1 paragraph〉</desc>
+                  </gap>
+               </note> that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rat in all goodly haſte, vpon poynt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the king all his goodes and cattals, and his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at the kynges pleaſure. And that no Capitayne, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> capitayne, into the place of any of his ſouldiour or ſouldi<g ref="char:EOLunhyphen"/>ours, as aboue is ſaid, diſcharged, departed, or dead, in any wiſe take an other, excepte it be by the ſight and allowance of the Treſourer of the warres, vppon peyne of impryſon<g ref="char:EOLhyphen"/>ment of his bodye, and further punyſſhed at the kynges pleaſure.</p>
+            <p>
+               <note place="margin">For rob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bing of mar<g ref="char:EOLunhyphen"/>chantes commyng to the mar<g ref="char:EOLhyphen"/>ket and ra<g ref="char:EOLhyphen"/>uiſſhyng of women and alſo mur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g.</note>¶<hi>ALSO</hi> that no man robbe no vittailer ne marchaunt, ne none other perſon commyng vnto the market with vittaile or other marchandiſe, for the refreſſhing of the hoſte, or re<g ref="char:EOLhyphen"/>tourning from the ſame, vpon the peine of dethe. And that no man of the kynges hoſte, robbe any other of the ſame, of horſe meate or mannes meate, vppon peyne of impri<g ref="char:EOLhyphen"/>ſonment, and his body to be punyſhed at the kinges plea<g ref="char:EOLhyphen"/>ſure, ne of any other goodes, vpon peyne of deathe. Alſo that no man murdre or robbe any perſon, excepte he be the kynges ennemie, ne rauiſhe any woman, vppon peyne of death.</p>
+            <p>
+               <note place="margin">For eſcries made by ennemyes in the hoſt.</note>¶ <hi>ALSO</hi> if any eſcrie fall in the hoſte by ennemies, after the armie be lodged, that euery capitayne of the kynges ward, drawe him to the kyng. And capitaines of the other warde, drawe them to the chieftain of the warde where he is lodged, leuyng his lodging ſufficiently kept, except the ennemies fall in that ſide, where he is lodged: and then in this caſe, the ſayde capitaine ſhall abyde there him ſelfe and all his men, and to ſende woorde to the chieftaine of the warde, vpon peyne of impriſonment, and further to be punyſhed at the kynges pleaſure.</p>
+            <p>
+               <note place="margin">For reſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtyng of Iuſtyce.</note>¶<hi>ALSO</hi> yf any man be adiudged to the deathe by the kyn<g ref="char:EOLhyphen"/>ges meieſties marſhall, or any other iudge ordinary, or any
+<pb facs="tcp:22120:5"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the condempnate be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſiſtau<g ref="char:cmbAbbrStroke">̄</g>t ſhall haue like paynes <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpned was adiudged vnto: and al the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> adherentes fautours and abbettours to be be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And if it be any other crime or offence capital then treaſon: that then the reſiſtour in ſuche caſe ſhal ſuffre like paynes and puniſhme<g ref="char:cmbAbbrStroke">̄</g>tes as the principall adiudged ſhuld haue ſuſteyned and ſuffred. And al other the reſiſtours ad<g ref="char:EOLhyphen"/>herentes fautours and ayders to be puniſhed at the kyn<g ref="char:EOLhyphen"/>ges pleaſure.</p>
+            <p>¶Alſo that euery man ſhal obey the kingis ſexiantes por<g ref="char:EOLhyphen"/>ters of places,<note place="margin">For theym that breke the kinges arreſt.</note> and al other officers hauing auctoritie to ar<g ref="char:EOLunhyphen"/>reſt, aſſigned by the kinges Maieſtie, or the merſhal, or by any other officers of auctoritie: And that no man preſume to breake their arreſtes, vpon payne of impriſonment, and his body to be at the kingꝭ pleaſure, his gracis lieutenau<g ref="char:cmbAbbrStroke">̄</g>t or lieutenauntes. And if the priſoner, diſobeying the ſaid arreſt, mayme any of the ſaid officers: then he ſo offending to ſuffre paynes of deathe: and if he greuouſely wounde or hurte any of them, then to be impriſoned and puniſhed at the kinges pleaſure.</p>
+            <p>¶Alſo that euery lorde capitayne and peticapitayne,<note place="margin">For good <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be kept.</note> ha<g ref="char:EOLhyphen"/>uing any retinue great or ſmall, forſee good rule &amp; gyding of his people at his perill and charge, as he wyl aunſwere for them to the king for the contrarie. And that euery ſoul<g ref="char:EOLhyphen"/>diour obey his capitayne and petycapitayne: and likewiſe euery capitayne and petycapitayne obey his ſuperiour ca<g ref="char:EOLhyphen"/>pitayne or ruler, vpon payne as ſhalbe limitted by his ſaid ſuperiour capitayne or ruler.</p>
+            <p>¶ Alſo that after the watche ſhalbe ſet, vnto the tyme it be diſchardged in the mornynge, no maner of man make any ſhouti<g ref="char:cmbAbbrStroke">̄</g>g or blowing of hornes or whiſteling or great noyſe, but if it be trumpettes by a ſpecial commaundement, vpon payne of impriſonment, and further to be punyſhed at the
+<pb facs="tcp:22120:6" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> other then he is borne to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fficers of armes, wherethorough <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> myght fall in the hoſte, vpon payne to be p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> kinges pleaſure, and to be reproched for the ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>¶Alſo that no capitayn hauing any cariage appoynted hym, ſhall haue any mo ſouldiours of &amp; in the kinges wa<g ref="char:EOLhyphen"/>ges tattende vpon his carriage, then for euery cart .ii. ſoul<g ref="char:EOLhyphen"/>diours, and for euery horſe charged aparte with carriage, one ſouldiour, vpon payne the capitayne to loſe his mon<g ref="char:EOLhyphen"/>thes wages, and the ſouldiour to be impriſoned at the kin<g ref="char:EOLhyphen"/>ges pleaſure.</p>
+            <p>¶Alſo euery horſeman at the fyrſt blaſte of the trumpette ſhall ſadle or cauſe to be ſadled his horſe, at the ſeconde to brydell, at the thirde to leape on his horſe backe, to wait on the kyng, or his lorde or capitayne. And that euery manne waite vpon the ſtandarde of his owne lorde or capitayne, and not to departe therefro, ne to medle with none other companyes in rydynge nor goynge, but ſuche as be com<g ref="char:EOLhyphen"/>manded as harbergers or other carriars, as is aboue reher<g ref="char:EOLunhyphen"/>ſed in the article of harbergage, vpon peyne of impriſone<g ref="char:EOLhyphen"/>ment, and further to be punyſhed at the kynges pleaſure.</p>
+            <p>
+               <note place="margin">For d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſing cardyng, &amp; all maner of games.</note>¶Alſo that no man play at diſe cardes tables cloſhe, hand out, or any other game, wherby they ſhall waſte theyr mo<g ref="char:EOLhyphen"/>ney, or cauſe debates to aryſe by the ſame, excepte ſuche as ſhall be lycenced by the kynges maieſty, or his lieutenant, by byll aſſigned: and yf any ſo be founde or conuicted of playing at any of theſe games, that for the fyrſt tyme he or they ſhall be committed to warde, there to remayne .viii. dayes, and to loſe all ſuche money as he or they playe for, the one halfe to the prouoſt of the marſhall, and the other halfe to hym that ſo fyndeth them playinge. And if any of the ſayd army be founde twyſe playinge, he ſhall be com<g ref="char:EOLhyphen"/>mitted to the prouoſtes ward, there to remayn one moneth: and to forfaite one monethes wages: the one halfe to the
+<pb facs="tcp:22120:6" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to take no profyte of that pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if any be ſo found the thyrde tyme play<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> commytted to warde, there to abide the kyn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſure, and to haue further punition as ſhall pleaſe the kynge.</p>
+            <p>¶Alſo that no man bring with him any woman ouer the ſea,<note place="margin">For borde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kepynge in the hoſte.</note> vpon peyne of forfayture of theyr goodes to the mar<g ref="char:EOLhyphen"/>ſhall, and their bodyes to be impriſoned, there to remayne at the kynges pleaſure, and that noo manne holde any wo<g ref="char:EOLhyphen"/>man within his lodgynge beyonde the ſea, vppon peyne of impryſonment &amp; loſſe of a monethes wages. And that no co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mon woma<g ref="char:cmbAbbrStroke">̄</g> preſume to com within the kingis hoſt, or nygh the ſame by the ſpace of thre myles, vpon peyne yf any ſo be taken, to be brent vpon the ryght cheke at the fyrſt tyme, and if any be taken within the hoſte, or within thre myle of the ſame, after ſhe or they haue be ſo brent: than ſhe or they to be put into warde of the prouoſte marſhall, there to re<g ref="char:EOLhyphen"/>mayne in priſon, as longe as ſhall pleaſe the marſhall, and to haue further punition, as by hym ſhall be thought con<g ref="char:EOLhyphen"/>uenient.</p>
+            <p>¶Alſo that no man make debate ſtrife or contention for a<g ref="char:EOLhyphen"/>ny hatred or malice of tyme paſſed, ne for tyme to come,<note place="margin">For debate makyng.</note> wherby any man be ſlayne, vppon peyne of hym or theym that be cauſers or partners of the murder, to be ha<g ref="char:cmbAbbrStroke">̄</g>ged ther<g ref="char:EOLunhyphen"/>fore, or if it happen any man eſcry his owne name or his ca<g ref="char:EOLhyphen"/>pitaines lorde or mayſter, to make ariſyng of the people, by the whiche any affray myght fall in the hoſte: he that in ſuche wyſe eſcryeth, ſhall be drawen and hanged therefore to the deathe.</p>
+            <p>¶Alſo that no man debate ſtryue or contende for armes,<note place="margin">For ebate<g ref="char:EOLhyphen"/>retours.</note> priſoners lodgynges, or for any olde cauſe malice or qua<g ref="char:EOLhyphen"/>rell, or other thinge, wherby any ryot contention or debate may growe in the hoſte, vpon peyne of impriſonment, and
+<pb facs="tcp:22120:7" rendition="simple:additions"/> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vpon peyne <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hym greued for any matter or cauſe <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhewe his greuance to his capitaine, and <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the marſhal, and right ſhalbe miniſtrid to him a<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theym <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gyue <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reproch</note>¶Alſo that no man gyue reproch to none other bycau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the countrey that he is of, that is to ſay, be he frenchman, englyſheman, or welſheman, Iryſheman, or any other cun<g ref="char:EOLhyphen"/>trey, whenſe ſo euer he be of, nor that no man ſay no villa<g ref="char:EOLhyphen"/>ny to other for any cauſe, through the whiche villayne ſay<g ref="char:EOLhyphen"/>ing may fall ſodayn manſlaughter, reyſyng of people, diſ<g ref="char:EOLhyphen"/>cention debate or diuiſion in the hoſte, vpon peyne all ſuch barrettours to be impriſoned for as longe as it ſhal pleaſe the kyng.</p>
+            <p>
+               <note place="margin">For theym that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>uocke</note>¶Alſo that no man preſume to crye hauoke vpon peyn of death to the begynner therof, and all the reſte folowers or partakers therof, to be impriſoned, and theyr bodies to be punyſhed at the kynges pleaſure.</p>
+            <p>
+               <note place="margin">For <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yng</note>¶Alſo that no man, without commandement ſpeciall of the kyng, or of his head officer, burne wylfully any towne or houſe, vpon peyne of death, except the kynges enemies be within it, and can not be no otherwyſe taken.</p>
+            <p>
+               <note place="margin">For <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>¶ Alſo the kynges maieſtie ſtrayghtly commaundeth and chargeth, that yf it happen that his hoſte tary by the ſpace of thre dayes or aboue, in oone place or grounde, be it at ſiege or otherwiſe, that than euery man ſhall kepe clene his lodgyng, not ſuffring any carrayn tylth or other vnholſom or infec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue ſtinking thing to be in or nere the ſame his lod<g ref="char:EOLhyphen"/>gyng, but furthwith to bury the ſame deepe in the earthe, vpon peyne to be punyſhed at the diſcretion of the marſhal.</p>
+            <p>
+               <note place="margin">For ma<g ref="char:EOLhyphen"/>ſters of vy<g ref="char:EOLhyphen"/>tayle.</note>¶ Alſo yf any man fynd or take any wyne or other vitaile, he that ſo fyndeth or taketh, may reſerue for hym ſelfe and his, as moche therof as hym nedeth. And that he ſhal ſaue the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>menant to other of the ſayd hoſte, without any waſte or d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, vpon peyne to be impriſoned for as long as
+<pb facs="tcp:22120:7"/> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and his bodye to be <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> punyſhed at the kynges pleaſures <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>an take any horſe or horſes,<note place="margin">
+                  <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> goynge to ploughe in countreies wonne and pacified.</note> oxe or oxen <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ey wonne and pacified, from any man goyng to plough, or any other labourer, but it be the prouoſt and his company, and the purueyours of thordinance, whiche ſhal haue ſufficient commiſſion in that behalfe, vppon peyne of death. <hi>AND</hi> that the ſayde prouoſte company and pour<g ref="char:EOLhyphen"/>ueyours of the ſaide ordinaunce, ſee true contentation ac<g ref="char:EOLhyphen"/>cordinge to the ſeſſyng of the prouoſt merſhall, had in that behalfe, vppon peyne for his or theyr fyrſte defaulte, to be commytted to warde, and forfaite to the kyng his or theyr monethes wages, and the ſeconde tyme to forfayte to the kyng his other mouable goodes, and their bodies to be in pryſon, duryng the kynges pleaſure, yf the defaut be found in any of them: And yf the default be founde in any other perſon that owe to pay and diſcharge the ſayde prouoſtes company and purueiours agaynſt the ſayd countreys and people ſo wonne and pacified, than they that ſo offende, to haue lyke punyſhement that the prouoſte company or pur<g ref="char:EOLhyphen"/>ueyours of ordynance ſhulde haue had in that behalf. And that it be lefull to the mayſter of the ordynance, to ſend for pyoners into any countrey won or pacified, where he ſhall thinke neceſſary. And that the purueiours certify the pro<g ref="char:EOLhyphen"/>uoſt merſhall, what numbre of horſe and oxen wolle ſerue hym, and that by his aduyſe the ſayd purueyour drawe to ſuche quarter as ſhalbe thought moſt neceſſary by the ſaid prouoſt, takyng of hym his byll, to the intent that he ſende none other men into the quarter, that the ſayde purueyour ſhall take his horſe or oxen in.</p>
+            <p>¶Alſo yf any countrey or lordeſhyp be wonne,<note place="margin">For keping of the cun<g ref="char:EOLhyphen"/>trey.</note> eyther by free wyll offred vnto the kynges obeyſance, or otherwyſe, that no man preſume to robbe nor pyll, or to take them pri<g ref="char:EOLhyphen"/>ſoners
+<pb facs="tcp:22120:8"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hym vpon the ſame payne, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yll obey,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce.</note> deare a croſſe of ſaynt Geog<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>¶And yf any of the retinue of the ordinance <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any of theyr owne company, or make any debate o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or haue any demand or queſtion emong them ſelf, that tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it be reformed iudged and puniſhed by the maſter of the or<g ref="char:EOLhyphen"/>dinance, and ſuche as he ſhall call to hym. Alwayes pro<g ref="char:EOLhyphen"/>uyded yf any man fynde hym ſelfe greued after any fynall ſentence, that he be at his appele afore the marſhall at all ſeaſons, and for all cauſes made betwene any of them, and any other perſon of the army, that than they or any of them abyde the iudgement of the marſhall and his court.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or taking <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t priſo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers.</note>¶Alſo it is ordeyned and enacted, that al kinges and kin<g ref="char:EOLhyphen"/>ges ſonnes, dukes and dukes eldeſt ſonnes, lieutenantes generall, great conſtable, or any of the chiefe marſhals of Fraunce, or of any other regions or prouinces, or any of the bloud ryall, bearyng armes royals, that ſhall happen to be taken by any perſon of the kynges army, ſhall ſtande only priſoner to the kyng our ſoueraygne lorde: And that noo man take vpon hym to delyuer or put to raunſom any ſuch kyng prince or any other perſonage in this acte before re<g ref="char:EOLhyphen"/>herſed, vpon peyne of dethe. And that the taker of any ſu<g ref="char:EOLhyphen"/>che perſone ſhall bryng him immediately to the kyng, and ſhall haue for his takyng ſuche ſufficient rewarde, as ſhall accorde with reaſon.</p>
+            <p>¶Alſo be it at bataile dede of armes or other places, where priſoners maye laufully be taken, he that fyrſte may haue his faith, ſhall haue hym for his priſoner: ſoo that he take from hym all his weapons, and ſhall not nede to abyde vp<g ref="char:EOLhyphen"/>pon hym to the ende of the iourneye, and none other man ſhall take hym for his priſoner: But if ſo be that the ſayde priſoner be founde with weapon redy to iubarde, in whiche caſe his raunſome ſhall be equally deuided betwene them,
+<pb facs="tcp:22120:8"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that fyrſt hath ſo borne <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hym to pryſoner, but if it ſo be, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and founde ſtandyng at his defence, an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cometh and taketh the faithe of the ſayde priſoner, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the ſmyter down ſhal haue the one halfe, &amp; the taker of the faith thother half, with the kepyng of the ſaid priſoner, makyng ſuertie to his partner for the other halfe.</p>
+            <p>¶Alſo if any man hath taken a priſoner, and the victorie had vpon their enemies in bataile ſkyrmiſſhe chaſe or any otherwiſe, any other man for any cauſe kill the ſaid ꝑſone, he that ſo doth ſlaye the priſoner, ſhall dye for it.</p>
+            <p>¶Alſo that no man preſume to rau<g ref="char:cmbAbbrStroke">̄</g>ſum or ſell his priſoner without ſpecial licence of his capitaine that indentith with the king vnder his lettre and ſeale,<note place="margin">For theym that raun<g ref="char:EOLhyphen"/>ſome theyr priſoners &amp; ſelle theim withoute leaue of their lor<g ref="char:EOLhyphen"/>des or capi<g ref="char:EOLhyphen"/>taynes.</note> vpon payne to forfaite his parte in the priſoner vnto his capitayne, and he to be vnder arreſt of the merſhall, vntil the tyme he hath agreed with his capitayne. In like wyſe that no capitayne raun<g ref="char:EOLhyphen"/>ſum or ſell his priſoner without ſpecial licence of the king, or his treaſourer of the warres, vpon payne of forfaiture of the ſame priſoner vnto the king. And that no man bie no ſuche priſoners, vpon payne to loſe the money that he ſhal paye for him, and the priſoner to be arreſted to the capitain afore ſaide. Alſo the capitaine vpon notice had of the ſaide priſoner, and licence aſked by his ſouldiour, ſhal not with<g ref="char:EOLhyphen"/>out cauſe reſonable ſhewed vnto the merſhall, let the ſaide ſouldiour to take his beſt aduantage of the ſaide priſoner: howe be it that if the capitayne woll giue as moche for the ſaide priſoner as an other, he ſhall haue the priſoner and preferment.</p>
+            <p>¶Alſo if any man take any priſoner, the whiche hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſworne and had billet, or any man whiche oweth ligeau<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vnto our liege lorde the king, that is to wir, Engliſhe wel<g ref="char:EOLhyphen"/>che Iriſhe, or any other of ſuche condicion: that then as
+<pb facs="tcp:22120:9" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the king or of the merſhal for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>¶Alſo if any man take any priſoner, ſuch <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>meth into the hoſte, he ſhal bringe his priſoner vnto <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pitayne or maiſter, vpo<g ref="char:cmbAbbrStroke">̄</g> payne of loſing of his parte to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forſaide capitaine or maiſter: and then his ſaide capitaine, if he be within the hoſte, ſhall certifie the merſhall within two daies: And if he be without the hoſte in garriſon orels where, he ſhal certifie the ſaide merſhall as ſone as he con<g ref="char:EOLhyphen"/>ueniently maye, and declare his name and hauiour in wri<g ref="char:EOLhyphen"/>ting as nigh as he can after his knowlege, ſo that he be not led or co<g ref="char:cmbAbbrStroke">̄</g>ueyed any other waie, vpon payne to loſe his part to hym that ſhal do fyrſt the merſhall to haue witting ther<g ref="char:EOLhyphen"/>of, and his body to be impriſoned &amp; puniſhed at the kinges pleaſure: And that euery man do kepe or do to be kept his priſoner, that he goo not nor ride not at large in the hoſte no in lodginges, but if warde be had vpon hym, vpo<g ref="char:cmbAbbrStroke">̄</g> payne of loſinge of the ſame priſoner, reſeruinge to his lorde or maiſter his thirdes of the hole, if he be not partie of the de<g ref="char:EOLhyphen"/>faulte, and the ſeconde parte to hym that fyrſt ſhall accuſe hym, &amp; the thirde parte to the merſhall: and alſo more ouer his body in arreſt at the kinges pleaſure. Alſo that he ſuf<g ref="char:EOLhyphen"/>fer not his priſoner to go out of the kinges hoſte for his rau<g ref="char:cmbAbbrStroke">̄</g>ſum, ne for none other cauſe, without ſalueconducte of the king or of the merſhal, vpon the payne aforeſaide. Alſo that euery capitayne in like wiſe bringe his priſoner vnto the treaſourer of the warres, vpon payne of forfaiture of the ſame priſoner vnto the kinges vſe.</p>
+            <p>¶Alſo that the merſhal from eight daies to .viii. daies, du<g ref="char:EOLunhyphen"/>ring the kinges armie, do certifie the treaſourer of the war<g ref="char:EOLhyphen"/>res of all ſuche certificates as ſhalbe brought in by the ca<g ref="char:EOLhyphen"/>pitaynes, or any other vnto hym, as wel of his owne as of other, al maner priſoners take<g ref="char:cmbAbbrStroke">̄</g> by any man in the hoſte cer<g ref="char:EOLhyphen"/>tified
+<pb facs="tcp:22120:9" rendition="simple:additions"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nde to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vnder forme aboue reherſed to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and vnder ſemblable penalties, they and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſhall brynge in and certifie all other prayes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>des and cattalles by them wonne by the warre.</p>
+            <p>¶Alſo that euery man paye his thirdes to his capitayne lord and maiſter, of al maner of winninges by warre,<note place="margin">For paying of thirdes.</note> And that as well thoſe that be not in wages, but lodging or ho<g ref="char:EOLhyphen"/>ſtyng vnder the banner or penon of theyr capitayne, vpon payne to loſe his parte of his foreſayde winnyng to his ca<g ref="char:EOLhyphen"/>pitayne, and his body to be in warde of the merſhall, vnto the tyme he hath agreed with his foreſayd maiſter. And al<g ref="char:EOLhyphen"/>ſo that euery capitaine pay vnto the kyng aſwell the thyrd parte of his owne wynnynges of the warre, as the thirde of the thirdes, wherof eche of his retinue ſhalbe anſwering vnto hym, of whiche thirdes, and thirdes of thirdes eue<g ref="char:EOLhyphen"/>ry capytaine ſhall be accoumptable before the treaſourer of the kynges warres, vpon peyne of forfaiture of the ſaid wynnynges vnto the kyng.</p>
+            <p>¶Alſo that no man gyue no ſalueconduct to priſoner,<note place="margin">For giuing of ſafecon<g ref="char:EOLhyphen"/>ductes or co<g ref="char:cmbAbbrStroke">̄</g>gres, and for breking of them.</note> ne to none other, nor lycence none enmy to come nor to go out of the hoſte, ne into the hoſte, vpon peine of forfeyture of all his goodes to the kynge, and his body to be impryſonned at the kynges wyll: excepte the kyng his lieutenaunt or lieutenauntes, or the merſhall, if he haue ſpeciall commiſ<g ref="char:EOLhyphen"/>ſion ſo to do. And that no man preſume to breake the kyn<g ref="char:EOLhyphen"/>ges ſalueconducte, his lieutenauntes or his ſayd merſhall hauyng ſuche auctoritie, vppon peyne to be hanged and drawen, and his goodes and inheritaunces to be forfeyted to the kynge.</p>
+            <p>¶Alſo that no man graunt no ſaluegarde by wrytyng no:<note place="margin">For giuing of ſauegar<g ref="char:EOLhyphen"/>des.</note> otherwyſe to no noble perſon, ne for the apatiſhyng of any countrey, excepte the kyng, vpon peyne of impryſonment
+<pb facs="tcp:22120:10"/> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the kynges <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vpon peyne <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> theym <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> beare <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a bond <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a croſſe of ſayncte George.</note>¶Alſo that euery man goyng in hoſ<gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> what eſtate condition or nation he be, of the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and hoſte, excepte he be a byſſhop or officer of <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a croſſe of ſaynt George, ſufficient and large, vppon the peine that if he be wounded or ſlaine in the defaulte therof, he that ſo woundeth or ſleeth him, ſhall beare no payne therfore. And if he for any cauſe paſſe the bondes of the fielde, that then he beare openly a croſſe of ſaint George, vpon peyne to be impriſoned and punyſhed at the kinges pleaſure. And that no ſoldiour beare no cogniſance but the kinges and his capitaines, vpon paine of deathe. And that none ennemy beare the ſayde ſigne of ſaint George, but if he be priſoner and inwarde of his maiſter, vppon payne of deathe.</p>
+            <p>
+               <note place="margin">For maki<g ref="char:cmbAbbrStroke">̄</g>g of <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note>¶Alſo that no man make any roodis by daye or by nyght, but by licence and knowledge of the kinge, or of the chief<g ref="char:EOLhyphen"/>teynes of the warde, ſo that the chiefteynes maye knowe what way they drawe them, to thintent they may haue ſo<g ref="char:EOLhyphen"/>cour and helpe if nede be, vpon peyne of them that herein offend, their body and goodes to be at the kinges pleaſure.</p>
+            <p>
+               <note place="margin">For aſſault makynge withoute lycence.</note>¶Alſo that none aſſaute be made to caſtell towne ſtrength or fortreſſe by archers or by any other co<g ref="char:cmbAbbrStroke">̄</g>moners, without the wyll and preſence of a capitayne thervnto appointed by the kyng, vpon peyne of impriſonment. And if any aſſaute be made by chaunce or aduenture, then as ſone as the king or the merſhall ſende for to ceaſſe the ſayd aſſaute, that then no man preſume to aſſaute after monition giuen to the con<g ref="char:EOLunhyphen"/>trary, and the offendour to be puniſhed by impriſonment of his body, and loſſe of all the goodes gotten at the ſayde aſ<g ref="char:EOLhyphen"/>ſaulte.</p>
+            <p>
+               <note place="margin">For with<g ref="char:EOLhyphen"/>drawynge</note>¶Alſo that no man preſume to take or withdrawe any ſer<g ref="char:EOLhyphen"/>uaunt from any other, the which is in couenaunt with him
+<pb facs="tcp:22120:10"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> preſume to go into the chamber or lod<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any no man lyeth in childebed,<note place="margin">For <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> childe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> her to robbe or <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any goodes, the which longeth vnto her refreſhing, or for to make any affraye, where through ſhe and her child myght be in any deſeaſe or diſpayre, vpon peyne of forfay<g ref="char:EOLhyphen"/>ture of all his goodes, the one halfe to hym that accuſeth him, and the other halfe to the merſhal, and him ſelfe to ſuf<g ref="char:EOLhyphen"/>fer peynes of death, onles the kinges maieſtie pardon him.<note place="margin">For childre<g ref="char:cmbAbbrStroke">̄</g> within the age of .xiiii yeres.</note>
+            </p>
+            <p>¶Alſo that no man preſume to take any chlydren within the age of .xiiii. yeres, but if he be a lordes ſonne, or elles a worſhypfull gentle mans, or a riche mans ſonne, or a capi<g ref="char:EOLhyphen"/>taynes. And that as ſone as he hath brought hym into the hoſt or into the garriſon where he is abyding, he bryng hym to his lorde maiſter or capitayne, vppon peyne of loſynge his horſe harneys and his parte of the ſame child, reſeruyng to his lorde maiſter or capitayne his duetie, ſo that they be not conſentaunt vnto the ſayde defaute: And alſo that the ſayde lord maiſter or capitayne bryng hym vnto the kyng within .viii. dayes.</p>
+            <p>¶Alſo for ſo moche as our ſayde ſouerayne lord, for the in<g ref="char:EOLhyphen"/>warde loue tendre zeale and entter affection, whiche he bea<g ref="char:EOLhyphen"/>reth naturally to all his ſubiectes being of his ſayde hoſte and army, wolde be lotheſt and moſt diſpleaſaunt to heare or vnderſtande any of theym to do that offence, wherby he ſhuld deſerue the leaſt puniſhmentes by the ſaid ordinances prouyded: his highnes therfore deſireth and tenderly pray<g ref="char:EOLhyphen"/>eth his ſayd ſubiectes, to conſidre and vnderſtand, that his good ſpede in his ſayde iourney, the honour of his realme, and the weale and ſurety of the ſame his ſubiectes, ſtandeth vpon the obſeruatio<g ref="char:cmbAbbrStroke">̄</g> of the ſaid ſtatutes. Wherfore though it be to the greateſt heuyneſſe and diſpleaſure, yet muſt he of
+<pb facs="tcp:22120:11"/> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to excuſe th<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of their offences <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ce of the ſayd ordynaunces, his highnes <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> aboue the open proclamation of the ſayd ſtatutes, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ordeyned by way of imprint, diuers and many <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bokes, conteynyng the ſame ſtatutes, to be made and dely<g ref="char:EOLhyphen"/>uered vnto the capitaynes of his hoſte, chargyng them, as they woll avoyde his great diſpleaſure, to cauſe the ſame twyſe or ones at the leaſt in euery weke holly to be redde in the preſence of theyr retynue.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>IMPRINTED</hi> at London in Fſeteſtrete by Thomas Bartheſet printer to the kinges highnes, the <hi>.XX.</hi> day of June, the yere of our Lorde. <hi>M. D. XLIIII.</hi>
+            </p>
+         </div>
+         <div type="license">
+            <p>
+               <hi>CVM PRIVILEGIO AD IMPRIMEN<g ref="char:EOLhyphen"/>DVM SOLVM.</hi>
+            </p>
+            <pb facs="tcp:22120:11"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:22120:12"/>
+            <pb facs="tcp:22120:12"/>
+         </div>
+      </back>
+   </text>
+</TEI>
